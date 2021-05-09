@@ -1,1 +1,4 @@
-# lush_intergalactic
+# 러쉬 상세페이지
+### 작업기여도 : 100%
+### 사용 툴 : PHOTOSHOP
+
